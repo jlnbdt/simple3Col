@@ -11,4 +11,4 @@ Le thème s'adapte à la résolution de l'écran. Plus précisément, au dessous
 800px de largeur, la *sidebar* est placée en bas de page et prend 100% de la
 largeur.
 
-Demo : [http://hal-9000.fr/pluxml/](http://hal-9000.fr/pluxml) 
+Demo : [http://hal-9000.fr/pluxml/](http://hal-9000.fr/pluxml/) 
